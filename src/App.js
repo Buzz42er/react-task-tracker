@@ -6,6 +6,7 @@ import Tasks from "./components/Tasks"
 import AddTask from './components/AddTask'
 import About from './components/About'
 
+
 //to start in vsc => in seperet terminals, put:
 //npm start
 //npm run server
@@ -135,3 +136,6 @@ const App = () => {
 }
 
 export default App;
+
+//all help from Traversy Media
+//project copied from Traversy Media

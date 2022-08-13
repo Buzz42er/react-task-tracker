@@ -127,7 +127,7 @@ const App = () => {
               </>
             }
           />
-          <Route path='/about' element={<About />} />
+          <Route path='/react-task-tracker/about' element={<About />} />
         </Routes>
         <Footer />
       </div>
